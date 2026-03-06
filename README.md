@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Uddhav Krishna! 👋
 
-<!--
-**UK151/UK151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science and Engineering student at **Amrita Vishwa Vidyapeetham, Coimbatore**. I'm passionate about building secure systems and creating intuitive digital experiences.
 
-Here are some ideas to get you started:
+### 🎯 Interests
+* Cyber Security
+* UI/UX Design
+* Data Structures & Algorithms (DSA) & Design and Analysis of Algorithms (DAA)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+* **Languages:** Python, Java, C, C++, Rust, JavaScript, TypeScript
+* **Frontend:** HTML, CSS, React, Tailwind CSS, React Three Fiber, Expo
+* **Backend & Databases:** Node.js, Neo4j
+* **DevOps & Tools:** Docker, Kubernetes, Git, GitHub
+
+---
+*Feel free to explore my repositories!*
